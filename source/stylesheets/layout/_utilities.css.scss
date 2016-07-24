@@ -6,8 +6,8 @@
 
 // Paddings
 .padded {
-  padding-top: 5em;
-  padding-bottom: 5em;
+  padding-top: 3em;
+  padding-bottom: 2em;
 }
 
 // Backgrounds
@@ -22,4 +22,33 @@
 }
 .bg-facebook {
   background: #3b5998;
+}
+.left {
+  text-align: left;
+}
+.justify {
+  align: justify;
+}
+.underline {
+  text-decoration: underline;
+}
+.italic {
+  font-style: italic;
+}
+.center {
+  text-align: center;
+}
+.lg-font {
+  font-size: 20px;
+}
+.lr-margin {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.fixed {
+  margin-left:30%;
+  position: fixed;
+}
+.top-margin {
+  margin-top: 50px;
 }
